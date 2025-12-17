@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Interstellar",
+    "year": 2014,
+    "category": "Bilim Kurgu",
+    "rating": 8.6,
+    "director": "Christopher Nolan",
+    "summary": "Bir uzay yolculuğu ve insanlığın geleceği üzerine epik bir hikaye.",
+    "poster": "assets/img/interstaller.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Inception",
+    "year": 2010,
+    "category": "Aksiyon",
+    "rating": 8.8,
+    "director": "Christopher Nolan",
+    "summary": "Rüyaların içinde bilinçaltına yolculuk ve zihin hırsızlığı.",
+    "poster": "assets/img/inception.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Godfather",
+    "year": 1972,
+    "category": "Dram",
+    "rating": 9.2,
+    "director": "Francis Ford Coppola",
+    "summary": "Bir ailenin güç, sadakat ve suç üzerinden yükselişi.",
+    "poster": "assets/img/godfather.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Parasite",
+    "year": 2019,
+    "category": "Gerilim",
+    "rating": 8.5,
+    "director": "Bong Joon-ho",
+    "summary": "Sınıf çatışmasını kara mizahla anlatan sürükleyici bir hikaye.",
+    "poster": "assets/img/parasite.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Spirited Away",
+    "year": 2001,
+    "category": "Animasyon",
+    "rating": 8.6,
+    "director": "Hayao Miyazaki",
+    "summary": "Gizemli bir dünyada geçen fantastik bir büyüme yolculuğu.",
+    "poster": "assets/img/spiritedaway.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Whiplash",
+    "year": 2014,
+    "category": "Dram",
+    "rating": 8.5,
+    "director": "Damien Chazelle",
+    "summary": "Mükemmeliyet takıntısı, baskı ve tutku üzerine sert bir hikaye.",
+    "poster": "assets/img/whiplash.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Fight Club",
+    "year": 1999,
+    "category": "Dram",
+    "rating": 8.8,
+    "director": "David Fincher",
+    "summary": "Tüketim toplumu, kimlik ve kaos üzerine kült bir başyapıt.",
+    "poster": "assets/img/fightclub.jpg"
+  },
+  {
+    "id": 8,
+    "title": "The Matrix",
+    "year": 1999,
+    "category": "Bilim Kurgu",
+    "rating": 8.7,
+    "director": "The Wachowskis",
+    "summary": "Gerçeklik algısını sorgulatan devrim niteliğinde bir film.",
+    "poster": "assets/img/matrix.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "category": "Suç",
+    "rating": 8.9,
+    "director": "Quentin Tarantino",
+    "summary": "Parçalı anlatımı ve diyaloglarıyla sinema tarihine geçmiş bir yapım.",
+    "poster": "assets/img/pulpfiction.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "category": "Dram",
+    "rating": 8.8,
+    "director": "Robert Zemeckis",
+    "summary": "Saflık, sevgi ve hayatın sürprizleri üzerine dokunaklı bir hikâye.",
+    "poster": "assets/img/forrestgump.jpg"
+  },
+  {
+    "id": 11,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "category": "Aksiyon",
+    "rating": 9.0,
+    "director": "Christopher Nolan",
+    "summary": "Batman ve Joker arasındaki unutulmaz çatışma.",
+    "poster": "assets/img/darkknight.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Se7en",
+    "year": 1995,
+    "category": "Gerilim",
+    "rating": 8.6,
+    "director": "David Fincher",
+    "summary": "Yedi ölümcül günah üzerinden ilerleyen karanlık bir polisiye.",
+    "poster": "assets/img/se7en.jpg"
+  },
+  {
+    "id": 13,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "category": "Dram",
+    "rating": 9.3,
+    "director": "Frank Darabont",
+    "summary": "Umut, dostluk ve özgürlük üzerine zamansız bir başyapıt.",
+    "poster": "assets/img/shawshank.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Gladiator",
+    "year": 2000,
+    "category": "Aksiyon",
+    "rating": 8.5,
+    "director": "Ridley Scott",
+    "summary": "İhanet ve intikam üzerine epik bir Roma hikâyesi.",
+    "poster": "assets/img/gladiator.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Scarface",
+    "year": 1983,
+    "category": "Suç",
+    "rating": 8.3,
+    "director": "Brian De Palma",
+    "summary": "Güç ve hırsın bir insanı nasıl dönüştürdüğünün çarpıcı öyküsü.",
+    "poster": "assets/img/scarface.jpg"
+  },
+  {
+    "id": 16,
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "category": "Gerilim",
+    "rating": 8.6,
+    "director": "Jonathan Demme",
+    "summary": "Hannibal Lecter karakteriyle hafızalara kazınmış psikolojik gerilim.",
+    "poster": "assets/img/silenceofthelambs.jpg"
+  }
+]

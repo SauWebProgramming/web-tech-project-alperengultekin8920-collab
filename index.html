@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Medya Kitaplığı</title>
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="header">
+    <nav class="nav">
+      <h1 class="logo">🎬 Medya Kitaplığı</h1>
+      <button id="favBtnNav">Favorilerim</button>
+    </nav>
+  </header>
+
+  <main class="container">
+
+    <!-- Arama ve Filtreler -->
+    <section class="filters">
+      <input type="text" id="searchInput" placeholder="Film ara...">
+
+      <select id="categorySelect">
+        <option value="">Tüm Kategoriler</option>
+      </select>
+
+      <select id="yearSelect">
+        <option value="">Tüm Yıllar</option>
+      </select>
+    </section>
+
+    <!-- Kart Listesi -->
+    <section id="mediaList" class="grid"></section>
+
+    <!-- Detay Alanı -->
+    <section id="mediaDetail" class="detail hidden"></section>
+
+  </main>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
