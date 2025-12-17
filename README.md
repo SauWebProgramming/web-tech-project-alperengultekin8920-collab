@@ -9,7 +9,7 @@ Uygulama, yerel bir JSON veri kaynağından alınan film verilerini dinamik olar
 ## 🔗 Proje Linkleri
 
 **Canlı Demo (GitHub Pages):**  
-https://sauwebprogramming.github.io/web-tech-project-alperengultekin_b220101042/
+https://sauwebprogramming.github.io/web-tech-project-alperengultekin_b220102042/
 
 ---
 
