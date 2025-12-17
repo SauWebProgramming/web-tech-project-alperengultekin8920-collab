@@ -1,1 +1,20 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Xg2jV1i2)
+# Medya Kitaplığı (Media Library SPA)
+
+Bu proje, Web Teknolojileri dersi kapsamında geliştirilmiş basit bir **Single Page Application (SPA)** uygulamasıdır.
+
+## Özellikler
+- Film listeleme
+- Film arama
+- Kategoriye göre filtreleme
+- Yıla göre filtreleme
+- Favori filmler (LocalStorage ile)
+- Detay sayfası (SPA mantığıyla)
+
+## Kullanılan Teknolojiler
+- HTML
+- CSS
+- JavaScript (Vanilla JS)
+- GitHub Pages
+
+## Canlı Demo
+https://sauwebprogramming.github.io/web-tech-project-alperengultekin8920-collab/
